@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942271171978",
+    "firebase_url": "https://testemail-c00a3.firebaseio.com",
+    "project_id": "testemail-c00a3",
+    "storage_bucket": "testemail-c00a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942271171978:android:d3ca9eee060563db80cc73",
+        "android_client_info": {
+          "package_name": "io.modeck.emailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942271171978-lvvmm0drv5u9ss3e138c0l4p4bupml5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpX7sk7GuPbw8PqaqxMfx-VsKWWrtVzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942271171978-lvvmm0drv5u9ss3e138c0l4p4bupml5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
